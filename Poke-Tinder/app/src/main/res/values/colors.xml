@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="creme">#FFFDD2AB</color>
+    <color name="nine_shaft">#747474</color>
+    <color name="havelock_blue">#7586BC</color>
+    <color name="cream_brulee">#F4BA6F</color>
+    <color name="z3a0h1">#70EACE</color>
+    <color name="green_house">#FFA29E61</color> <!-- Corregido -->
+    <color name="dorado">#5D5503</color>
+    <color name="red">#E53D00</color>
+    <color name="pokebola_gray">#FF9F0090</color>
+    <color name="light_font">#FFBBF0DC</color>
+    <color name="grey_font">#FF969E9E</color>
+    <color name="text_shadow">#29000000</color>
+    <color name="text_shadow_white">#AFFFFFFF</color>
+    <color name="zanah">#FFA500</color> <!-- ✅ Color agregado -->
+</resources>

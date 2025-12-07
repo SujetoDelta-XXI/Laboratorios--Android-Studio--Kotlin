@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PokeTinder-2025-Asparrin</string>
+
+    <string name="user_email">Correo electrónico</string>
+    <string name="user_password">Contraseña</string>
+    <string name="confirm_password">Repetir contraseña</string>
+    <string name="start_session">Iniciar sesión</string>
+    <string name="register_me">Registrarme</string>
+    <string name="already_have_account">Ya tengo una cuenta</string>
+    <string name="register">Registrar</string>
+
+    <!-- Mensajes de validación -->
+    <string name="error_complete_data">Ingrese los datos completos</string>
+    <string name="error_invalid_email">Formato de email incorrecto</string>
+    <string name="error_password_length">La contraseña debe tener al menos 8 caracteres</string>
+    <string name="error_passwords_not_match">Las contraseñas no coinciden</string>
+    <string name="error_user_exists">El usuario ya existe</string>
+    <string name="success_registration">Usuario registrado exitosamente</string>
+    <string name="error_invalid_credentials">Error usuario o contraseña incorrectos</string>
+    <string name="error_user_not_registered">Usuario no registrado</string>
+
+</resources>
