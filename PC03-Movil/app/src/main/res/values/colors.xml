@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fondo de cada tarjeta (ligeramente beige) -->
+    <color name="card_background">#FFFAF0</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#616161</color>
+</resources>
